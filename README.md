@@ -1,9 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Full-stack web applications using Node.js, Express, MongoDB, and modern backend practices.<br>
+
 👯 I’m looking to collaborate on<br>Open-source projects related to backend development, REST APIs, and real-world web applications.<br>
+
 🤝 I’m looking for help with<br>System design, scalable backend architecture, and performance optimization.<br>
+
 🌱 I’m currently learning<br>React.js, advanced Node.js, clean architecture, Artificial Intelligence, Machine Learning, and DevOps basics.<br>
+
 💬 Ask me about<br>Node.js • Express • MongoDB • REST APIs • Git/GitHub • Software Engineering concepts<br>
+
 ⚡ Fun fact<br>I enjoy turning complex problems into clean, scalable solutions — and I’m always leveling up 🚀
 
 
